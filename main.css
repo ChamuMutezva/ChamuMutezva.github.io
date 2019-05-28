@@ -11,7 +11,7 @@ header {
 
 h1 {
     padding: 100px 0;
-    font: 44px "Arial";
+    font: x-large "Arial";
     text-align: center;
 }
 
@@ -65,5 +65,8 @@ svg {
 div {
     text-align: center;
     font-size: x-large;
+}
+@media only screen and (min-width: 300px) {
+
 }
 
